@@ -9,6 +9,7 @@
 # These can be 100s of MBs and are machine-specific
 # ===========================================
 venv/
+.ipynb_checkpoints
 env/
 .venv/
 .env/
